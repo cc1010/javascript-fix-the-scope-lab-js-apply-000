@@ -11,7 +11,7 @@ function yourAnimal() {
   // How can we make sure that this function
   // and the above function both pass?
   // P.S.: Hard-coding 'cat' below will not work
-  const animal = 'dog'
+  const animal = 'cat'
   return animal
 }
 
